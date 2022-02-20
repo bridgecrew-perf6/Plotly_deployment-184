@@ -31,3 +31,4 @@ Code for generating the bubble chart
 
 In this section Images were added to the jumbotron and the background.  Font colors and sizes were changed to make the page more readable.
 
+![image](https://user-images.githubusercontent.com/91839403/154858148-fe3f85a9-bffe-41a3-af28-f3e6f6ed5d4b.png)
